@@ -1,2 +1,2 @@
 # My_Travel_Plans
-Myawesomeproject
+A simple app to keep track of destinations I'd like to visit.
